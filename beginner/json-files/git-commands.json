@@ -334,4 +334,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+  {
+    "title": "git it",
+    "description": "This command is useful to create an empty commit as your repository name.git : it both initializes your repository and creates an empty root commit in one quick step"
+  },
 ]
